@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilianapfranco
  - 🌱 I’m currently learning how to use Github to translate content for websites from English to Spanish.
-- 💞️ I’m looking to collaborate on Spanish translaitions
+- 💞️ I’m looking to collaborate on Spanish translations
 - 📫 How to reach me: writing to lilianapfranco@yahoo.com.ar
 
 <!---
